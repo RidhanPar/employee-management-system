@@ -1,4 +1,4 @@
-package com.fullstackproj.employee;
+package com.example.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EmployeeSystemApiApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(EmployeeSystemApiApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(EmployeeSystemApiApplication.class, args);
+	}
 
 }
